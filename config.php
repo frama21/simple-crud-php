@@ -1,6 +1,6 @@
 <?php
 $databaseHost = 'localhost';
-$databaseName = 'heho'; // NAMA DATABASE
+$databaseName = 'database'; // NAMA DATABASE
 $databaseUsername = 'root'; // USERNAME DATABASE
 $databasePassword = ''; //PASSWORD DATABASE
 
